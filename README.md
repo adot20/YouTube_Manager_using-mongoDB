@@ -13,5 +13,5 @@ You can install the necessary Python packages using pip:
 pip install pymongo
 ```
 
-## Running the Application
+## Running the script
 -  Replace `'<username>'`, and `<db_password>` in the Python script with your actual project username, and password from creating a project on Atlas.
